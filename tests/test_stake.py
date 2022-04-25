@@ -73,4 +73,4 @@ def test_getReward_after_withdraw(accounts, staking_contracts):
 	tx4 = staking.getReward({"from": accounts[2]})
 	reward4 = tx4.events["RewardPaid"]["reward"]
 
-	assert reward4 - reward2 < 1e16
+	assert reward4 - reward2 < 1e18
