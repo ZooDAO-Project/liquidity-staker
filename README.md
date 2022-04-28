@@ -27,9 +27,9 @@ Reward amount were decided to remain the same during all staking time.
 | kovan | address |
 | --- | --- |
 | Zoo Token | 0x74a99f340108a8e9Ffe1a646829d20a9499E9687 |
-| Zoo Reward Token(for kovan only) | 0x61E6d7e7281bfcbD254Dc02F3b87e574f754826c |
+| Zoo Reward Token(for kovan only) | 0x5816ceCaA2d0ACe3528090C61Dd19D1cA6F3a4e5 |
 | Zoo-eth uniswap LP | 0xa6a1326Ac1a7F9C29443e45aD63fA659AfD01d4d |
-| StakingPool | 0xDB608dD7B180f1e1cfc2aaD86b34cBd674B0f3B7 |
+| StakingPool | 0xb77B1E414d7eA884f5FeF1b7F34f526dc3E850dE |
 
 > brownie  v1.16.1 - v1.18.1
 
