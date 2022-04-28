@@ -21,7 +21,7 @@ Reward amount were decided to remain the same during all staking time.
 | mainnet | address |
 | --- | --- |
 | Zoo Token | 0x09F098B155D561Fc9F7BcCc97038b7e3d20bAF74 |
-| Zoo Token sushi LP | tba |
+| Zoo Token sushi LP (ZOO-DAI) | 0x8496E5f9bFb467841427e4f3183181C2E8DC162b |
 | StakingPool | tba |
 
 | kovan | address |
