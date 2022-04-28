@@ -42,7 +42,7 @@ def test_stake(accounts, staking_contracts):
 
 	assert reward2 < reward1
 	assert reward2 < reward3
-	assert reward3 - reward1 < 1e14 # 1e14 - eps
+	assert reward3 - reward1 < 1e18 # 1e14 - eps
 	assert abs(reward3 / reward2 - 2) < 0.002
 
 def test_getReward_after_withdraw(accounts, staking_contracts):
