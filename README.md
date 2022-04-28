@@ -1,4 +1,4 @@
-# Zoo DAO 
+# ZooDAO 
 ## StakingPool
 
 Forked from 
